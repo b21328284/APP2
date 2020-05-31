@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.theseniorcitizens.tsc">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".view.EditPanel"></activity>
+        <activity android:name=".view.EditBook" />
+        <activity android:name=".view.BookShow" />
+        <activity android:name=".view.CartActivity" />
+        <activity android:name=".view.SearchActivity" />
+        <activity android:name=".view.CataActivity" />
+        <activity android:name=".view.RegisterPanel" />
+        <activity android:name=".view.UserPanel" />
+        <activity android:name=".view.loginactivity" />
+        <activity android:name=".view.Addbook" />
+        <activity android:name=".view.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

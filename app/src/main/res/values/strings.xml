@@ -1,0 +1,70 @@
+<resources>
+
+    <string name="app_name">BookStore</string>
+
+    <string name="login">Login</string>
+
+    <string name="catagories">catagories</string>
+
+    <string name="Cart">Cart</string>
+
+    <string name="Search">Search</string>
+
+    <string name="signUpText">Don \'t have account? Sign up</string>
+
+    <string name="password">Password</string>
+
+    <string name="Author">Author</string>
+
+    <string name="repeatPass">Repeat Password</string>
+
+    <string name="email">Email</string>
+
+    <string name="Register">Register</string>
+
+    <string name="FirstName">First Name</string>
+
+    <string name="Change">Change</string>
+
+    <string name="LastName">Last Name</string>
+
+    <string name="Username">Username</string>
+
+    <string name="book_name">Book Name</string>
+
+    <string name="Panel">Panel Cubugu</string>
+
+    <string name="books">Books</string>
+
+    <string name="account">Account</string>
+
+    <string name="cart">Cart</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="genre">Genre: %1$s</string>
+
+    <string name="book_price">$%1$s </string>
+
+    <string name="language">Language</string>
+
+    <string name="by">by %1$s</string>
+
+    <string name="add_to_cart">Add to Cart</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="high_price">High price</string>
+
+    <string name="low_price">Low price</string>
+
+    <string name="price">Price</string>
+
+    <string name="genre2">Genre</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88429822406",
+    "firebase_url": "https://tscbook-947e9.firebaseio.com",
+    "project_id": "tscbook-947e9",
+    "storage_bucket": "tscbook-947e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88429822406:android:9080616faf864951cfb2c7",
+        "android_client_info": {
+          "package_name": "com.theseniorcitizens.tsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88429822406-4ahol06b9p12ve3vf77cur67nc591iob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_K1KSAzuS6hlj3wz3pIzbuCk8940BSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88429822406-4ahol06b9p12ve3vf77cur67nc591iob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
